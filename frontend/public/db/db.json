@@ -1,0 +1,355 @@
+{
+    "Peixes":[
+     {
+      "id": 1,
+      "PitTag": "1521FAAD",
+      "NC_Especie": "Aphanotorulus unicolor",
+      "Comp_Padrao": 102,
+      "Comp_Total": 112,
+      "Local_Captura": "Lago Itaipu",
+      "Peso_Soltura": 7606,
+      "Data_Soltura": "23\/03\/2022",
+      "Local_Soltura": "Canal de Piracema",
+      "Cod_Amostra_DNA": "24512-F-SW-KLB",
+      "Recaptura": "True"
+     },
+     {
+      "id": 2,
+      "PitTag": "1521F384",
+      "NC_Especie": "Acanthodoras cataphractus",
+      "Comp_Padrao": 79,
+      "Comp_Total": 85,
+      "Local_Captura": "Lago Itaipu",
+      "Peso_Soltura": 6555,
+      "Data_Soltura": "23\/03\/2022",
+      "Local_Soltura": "Canal de Piracema",
+      "Cod_Amostra_DNA": "34414-F-SW-KLB",
+      "Recaptura": "False"
+     },
+     {
+      "id": 3,
+      "PitTag": "2108663D",
+      "NC_Especie": "Aphyocharax anisitsi",
+      "Comp_Padrao": 56,
+      "Comp_Total": 67,
+      "Local_Captura": "Canal de Piracema",
+      "Peso_Soltura": 4987,
+      "Data_Soltura": "23\/03\/2022",
+      "Local_Soltura": "Canal de Piracema",
+      "Cod_Amostra_DNA": "33243-H-WW-JLC",
+      "Recaptura": "True"
+     },
+     {
+      "id": 4,
+      "PitTag": "39BE6A6D",
+      "NC_Especie": "Astyanax brevirhinus",
+      "Comp_Padrao": 83,
+      "Comp_Total": 98,
+      "Local_Captura": "Rio Paraná",
+      "Peso_Soltura": 8043,
+      "Data_Soltura": "24\/03\/2022",
+      "Local_Soltura": "Rio Paraná",
+      "Cod_Amostra_DNA": "74614-G-SE-WLV",
+      "Recaptura": "True"
+     },
+     {
+      "id": 5,
+      "PitTag": "3B8CF8F0",
+      "NC_Especie": "Pseudoplatystoma corruscans",
+      "Comp_Padrao": 77,
+      "Comp_Total": 87,
+      "Local_Captura": "Lago Itaipu",
+      "Peso_Soltura": 8120,
+      "Data_Soltura": "24\/03\/2022",
+      "Local_Soltura": "Canal de Piracema",
+      "Cod_Amostra_DNA": "54419-K-TR-CLV",
+      "Recaptura": "False"
+     },
+     {
+      "id": 6,
+      "PitTag": "2E90637D",
+      "NC_Especie": "Myleus schomburgkii",
+      "Comp_Padrao": 56,
+      "Comp_Total": 66,
+      "Local_Captura": "Rio Paraná",
+      "Peso_Soltura": 4798,
+      "Data_Soltura": "27\/03\/2022",
+      "Local_Soltura": "Rio Paraná",
+      "Cod_Amostra_DNA": "647166-V-QW-OPB",
+      "Recaptura": "True"
+     },
+     {
+      "id": 7,
+      "PitTag": "15652951",
+      "NC_Especie": "Opsodoras stuebelii",
+      "Comp_Padrao": 63,
+      "Comp_Total": 75,
+      "Local_Captura": "Canal de Piracema",
+      "Peso_Soltura": 5102,
+      "Data_Soltura": "28\/03\/2022",
+      "Local_Soltura": "Canal de Piracema",
+      "Cod_Amostra_DNA": "36712-Q-PT-CFT",
+      "Recaptura": "False"
+     },
+     {
+      "id": 8,
+      "PitTag": "204342AF",
+      "NC_Especie": "Potamotrygon motoro",
+      "Comp_Padrao": 92,
+      "Comp_Total": 100,
+      "Local_Captura": "Rio Paraná",
+      "Peso_Soltura": 9032,
+      "Data_Soltura": "29\/03\/2023",
+      "Local_Soltura": "Rio Paraná",
+      "Cod_Amostra_DNA": "22517-A-JK-CVT",
+      "Recaptura": "False"
+     },
+     {
+      "id": 9,
+      "PitTag": "20CB5D3D",
+      "NC_Especie": "Tatia brunnea",
+      "Comp_Padrao": 32,
+      "Comp_Total": 37,
+      "Local_Captura": "Lago Itaipu",
+      "Peso_Soltura": 2003,
+      "Data_Soltura": "29\/03\/2023",
+      "Local_Soltura": "Canal de Piracema",
+      "Cod_Amostra_DNA": "11552-X-ST-DEB",
+      "Recaptura": "False"
+     },
+     {
+      "id": 10,
+      "PitTag": "3A7C256F",
+      "NC_Especie": "Salminus brasiliensis",
+      "Comp_Padrao": 89,
+      "Comp_Total": 100,
+      "Local_Captura": "Canal de Piracema",
+      "Peso_Soltura": 9102,
+      "Data_Soltura": "30\/03\/2023",
+      "Local_Soltura": "Canal de Piracema",
+      "Cod_Amostra_DNA": "75533-D-XZ-POC",
+      "Recaptura": "True"
+     },
+     {
+      "id": 11,
+      "PitTag": "2746EBA3",
+      "NC_Especie": "Brycon orbignyanus",
+      "Comp_Padrao": 65,
+      "Comp_Total": 77,
+      "Local_Captura": "Canal de Piracema",
+      "Peso_Soltura": 7043,
+      "Data_Soltura": "31\/03\/2023",
+      "Local_Soltura": "Canal de Piracema",
+      "Cod_Amostra_DNA": "43991-N-IS-SAP",
+      "Recaptura": "True"
+     },
+     {
+      "id": 12,
+      "PitTag": "1A314187",
+      "NC_Especie": "Heptranchias perlo",
+      "Comp_Padrao": 101,
+      "Comp_Total": 112,
+      "Local_Captura": "Lago Itaipu",
+      "Peso_Soltura": 10023,
+      "Data_Soltura": "2\/5\/2023",
+      "Local_Soltura": "Rio Paraná",
+      "Cod_Amostra_DNA": "54121-K-OI-LUJ",
+      "Recaptura": "True"
+     },
+     {
+      "id": 13,
+      "PitTag": "32AD008D",
+      "NC_Especie": "Pseudocarcharias kamoharai",
+      "Comp_Padrao": 75,
+      "Comp_Total": 84,
+      "Local_Captura": "Rio Paraná",
+      "Peso_Soltura": 8210,
+      "Data_Soltura": "02\/05\/2023",
+      "Local_Soltura": "Rio Paraná",
+      "Cod_Amostra_DNA": "33298-N-OC-NYL",
+      "Recaptura": "False"
+     },
+     {
+      "id": 14,
+      "PitTag": "3A7C256F",
+      "NC_Especie": "Anchoviella lepidentostole",
+      "Comp_Padrao": 20,
+      "Comp_Total": 26,
+      "Local_Captura": "Canal de Piracema",
+      "Peso_Soltura": 1543,
+      "Data_Soltura": "07\/05\/2023",
+      "Local_Soltura": "Rio Paraná",
+      "Cod_Amostra_DNA": "45676-L-EA-FAR",
+      "Recaptura": "False"
+     },
+     {
+      "id": 15,
+      "PitTag": "5A4F60C2",
+      "NC_Especie": "Apareiodon affinis",
+      "Comp_Padrao": 14,
+      "Comp_Total": 17,
+      "Local_Captura": "Rio Paraná",
+      "Peso_Soltura": 201,
+      "Data_Soltura": "07\/05\/2023",
+      "Local_Soltura": "Canal de Piracema",
+      "Cod_Amostra_DNA": "73414-I-RE-LAV",
+      "Recaptura": "True"
+     },
+     {
+      "id": 16,
+      "PitTag": "2F81515D",
+      "NC_Especie": "Leporinus elongatus",
+      "Comp_Padrao": 38,
+      "Comp_Total": 45,
+      "Local_Captura": "Lago Itaipu",
+      "Peso_Soltura": 678,
+      "Data_Soltura": "08\/05\/2023",
+      "Local_Soltura": "Rio Paraná",
+      "Cod_Amostra_DNA": "90983-S-AT-ERT",
+      "Recaptura": "False"
+     },
+     {
+      "id": 17,
+      "PitTag": "5ED0B326",
+      "NC_Especie": "Prochilodus lineatus",
+      "Comp_Padrao": 22,
+      "Comp_Total": 27,
+      "Local_Captura": "Canal de Piracema",
+      "Peso_Soltura": 356,
+      "Data_Soltura": "11\/05\/2023",
+      "Local_Soltura": "Canal de Piracema",
+      "Cod_Amostra_DNA": "20234-E-PE-IXE",
+      "Recaptura": "True"
+     },
+     {
+      "id": 18,
+      "PitTag": "2F112A6B",
+      "NC_Especie": "Astyanax abramis",
+      "Comp_Padrao": 63,
+      "Comp_Total": 76,
+      "Local_Captura": "Canal de Piracema",
+      "Peso_Soltura": 4351,
+      "Data_Soltura": "12\/05\/2023",
+      "Local_Soltura": "Rio Paraná",
+      "Cod_Amostra_DNA": "25035-E-UG-AEL",
+      "Recaptura": "False"
+     },
+     {
+      "id": 19,
+      "PitTag": "57AB6D11",
+      "NC_Especie": "Hyphessobrycon eques",
+      "Comp_Padrao": 42,
+      "Comp_Total": 53,
+      "Local_Captura": "Rio Paraná",
+      "Peso_Soltura": 2973,
+      "Data_Soltura": "14\/04\/2023",
+      "Local_Soltura": "Canal de Piracema",
+      "Cod_Amostra_DNA": "85246-S-LE-GNA",
+      "Recaptura": "False"
+     },
+     {
+      "id": 20,
+      "PitTag": "2229B9AC",
+      "NC_Especie": "Serrasalmus spilopleura",
+      "Comp_Padrao": 11,
+      "Comp_Total": 61,
+      "Local_Captura": "Rio Paraná",
+      "Peso_Soltura": 186,
+      "Data_Soltura": "14\/04\/2023",
+      "Local_Soltura": "Canal de Piracema",
+      "Cod_Amostra_DNA": "18426-T-LA-REP",
+      "Recaptura": "True"
+     }
+    ],
+    "Antenas":[
+     {
+      "id": 1,
+      "Latitude": "-25.482219",
+      "Longitude": "-54.545027",
+      "Data_Instalacao": "10\/06\/2019",
+      "Data_Desativacao": "NULL"
+     },
+     {
+      "id": 2,
+      "Latitude": "-25.479753",
+      "Longitude": "-54.549927",
+      "Data_Instalacao": "12\/06\/2019",
+      "Data_Desativacao": "NULL"
+     },
+     {
+      "id": 3,
+      "Latitude": "-25.479767",
+      "Longitude": "-54.552203",
+      "Data_Instalacao": "13\/06\/2019",
+      "Data_Desativacao": "NULL"
+     },
+     {
+      "id": 4,
+      "Latitude": "-25.481150",
+      "Longitude": "-54.552795",
+      "Data_Instalacao": "16\/06\/2019",
+      "Data_Desativacao": "NULL"
+     },
+     {
+      "id": 5,
+      "Latitude": "-25.482051",
+      "Longitude": "-54.551561",
+      "Data_Instalacao": "17\/06\/2019",
+      "Data_Desativacao": "NULL"
+     }
+    ],
+    "Passagens":[
+     {
+      "Antena": 2,
+      "Peixe": "3A7C256F",
+      "Data_Hora": "03\/31\/2022 14:23"
+     },
+     {
+      "Antena": 4,
+      "Peixe": "2746EBA3",
+      "Data_Hora": "05\/02\/2022 17:42"
+     },
+     {
+      "Antena": 4,
+      "Peixe": "1521F384",
+      "Data_Hora": "05\/02\/2022 19:16"
+     },
+     {
+      "Antena": 1,
+      "Peixe": "3B8CF8F0",
+      "Data_Hora": "07\/03\/2022 12:58"
+     },
+     {
+      "Antena": 3,
+      "Peixe": "204342AF",
+      "Data_Hora": "07\/03\/2022 17:45"
+     }
+    ],
+    "Status_Antenas":[
+     {
+      "Antena": 1,
+      "Status": "True",
+      "Data_Mudanca_Status": "10\/06\/2019"
+     },
+     {
+      "Antena": 2,
+      "Status": "True",
+      "Data_Mudanca_Status": "12\/06\/2019"
+     },
+     {
+      "Antena": 3,
+      "Status": "True",
+      "Data_Mudanca_Status": "13\/06\/2019"
+     },
+     {
+      "Antena": 4,
+      "Status": "True",
+      "Data_Mudanca_Status": "16\/06\/2019"
+     },
+     {
+      "Antena": 5,
+      "Status": "True",
+      "Data_Mudanca_Status": "17\/06\/2019"
+     }
+    ]
+    }

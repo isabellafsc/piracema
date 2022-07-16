@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#backToTop {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(214, 210, 214);
+    padding: 5px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    border-radius: 5px;
+}
+
+
+::-webkit-scrollbar-track {
+    background-color: rgb(225, 248, 229);
+}
+
+::-webkit-scrollbar {
+    width: 14px;
+    background: rgb(225, 248, 229);
+}
+::-webkit-scrollbar-thumb {
+    background: rgb(156, 39, 176);
+    border-radius: 15px;
+}
