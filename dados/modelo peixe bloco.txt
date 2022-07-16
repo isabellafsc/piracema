@@ -1,0 +1,28 @@
+{
+	"repetivel": [
+		{
+			"nomeCientifico":"Serrasalmus spilopleura", 
+			"nomePopular":"Piranha-doce", 
+			"comprimentoPadrao":11, 
+			"localCaptura":"Rio Paraná",
+			"dataSoltura":"2023-04-14T00:00:00.000000", 
+			"localSoltura":"Canal de Piracema"
+		}
+	],
+	"unico": [
+		{
+			"pittag":"2229B901",
+			"comprimentoTotal":57, 
+			 "pesoSoltura":0.186, 
+			"amostraDna":"18426-T-LA-REP", 
+			"recaptura": "True"
+		},
+		{
+			"pittag": "2229B900",
+			"comprimentoTotal":61, 
+			"pesoSoltura": 0.182,
+			"amostraDna":"18426-T-LA-RET", 
+			"recaptura": "True"
+		}
+	]
+}
